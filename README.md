@@ -116,3 +116,7 @@ warning panel.
 - Persist filtered results/history to a database instead of just CSV export.
 - Deploy for free on [Streamlit Community Cloud](https://streamlit.io/cloud)
   by pushing this folder to a GitHub repo and pointing it at `app.py`.
+
+Author
+Shirisha TS
+Computer Science and Engineering (Data Science)
